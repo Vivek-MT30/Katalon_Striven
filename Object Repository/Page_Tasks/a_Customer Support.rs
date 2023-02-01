@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Customer Support</name>
+   <tag></tag>
+   <elementGuidId>8ffc9190-af33-49d1-a1a2-6c759c42cd3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tasks-container']/div[2]/div[3]/div/div[4]/div[2]/task-create-component/div/div/div/div/div/task-type-typeahead-widget/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b8458b0-a628-48af-b7af-e09fa2cd39b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a06a860f-8ab1-40a5-bb2b-1ad815f8ecda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Support</value>
+      <webElementGuid>19e95435-7b30-4408-89c6-d2d25b38996d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tasks-container&quot;)/div[@class=&quot;tasks-layout&quot;]/div[@class=&quot;center-panel hidden-xs hidden-sm&quot;]/div[1]/div[@class=&quot;panel panel-default inline-edit&quot;]/div[@class=&quot;panel-body&quot;]/task-create-component[1]/div[1]/div[@class=&quot;inline-edit&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-11&quot;]/task-type-typeahead-widget[@class=&quot;typeahead-widget&quot;]/div[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>c951097c-fe30-4a0e-bad0-509b32a32c90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tasks-container']/div[2]/div[3]/div/div[4]/div[2]/task-create-component/div/div/div/div/div/task-type-typeahead-widget/div/ul/li[3]/a</value>
+      <webElementGuid>875d57cc-dc3a-449a-bb29-2dea46c2d2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Customer Support')]</value>
+      <webElementGuid>63e03720-a509-4d60-b85a-cbe2363abb01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[2]/following::a[1]</value>
+      <webElementGuid>6e16ce93-3c54-465d-9d74-3a941d1ecf6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searching...'])[1]/following::a[2]</value>
+      <webElementGuid>e7b6cdab-8ddd-4ccb-ad32-d55a579b6824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Support'])[2]/preceding::a[1]</value>
+      <webElementGuid>b24892c4-8e85-4d1c-9d50-a74334e27755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[7]/preceding::a[2]</value>
+      <webElementGuid>befa1be1-51dd-4b88-a69b-2859ac2221d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//task-type-typeahead-widget/div/ul/li[3]/a</value>
+      <webElementGuid>cdc28571-e3f6-4524-8932-a53efbeddf6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Customer Support' or . = 'Customer Support')]</value>
+      <webElementGuid>c46f6408-c980-4e22-999d-7650f15d39dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

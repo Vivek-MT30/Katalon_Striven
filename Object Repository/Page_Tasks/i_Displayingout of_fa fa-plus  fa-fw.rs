@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Displayingout of_fa fa-plus  fa-fw</name>
+   <tag></tag>
+   <elementGuidId>8508d28a-e9ec-46a7-9770-36a157734166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tasks-container']/div[2]/div[3]/div/div[4]/div/div[2]/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-secondary.no-resize > i.fa.fa-plus.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>51e9d0cf-98b7-4a43-b7ec-f68f32a2f7a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus  fa-fw</value>
+      <webElementGuid>ab08a1af-820a-4b86-8320-8e5479df6936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tasks-container&quot;)/div[@class=&quot;tasks-layout&quot;]/div[@class=&quot;center-panel hidden-xs hidden-sm&quot;]/div[1]/div[@class=&quot;panel panel-default inline-edit&quot;]/div[@class=&quot;task-list-toolbar&quot;]/div[@class=&quot;btn-toolbar&quot;]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-secondary no-resize&quot;]/i[@class=&quot;fa fa-plus  fa-fw&quot;]</value>
+      <webElementGuid>c6d46a7f-f33a-4eb2-a6d1-313653b583da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tasks-container']/div[2]/div[3]/div/div[4]/div/div[2]/div/a/i</value>
+      <webElementGuid>4d56f875-0525-4079-bdb7-7df0fde06d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/a/i</value>
+      <webElementGuid>719b45a7-c8f5-4a36-997f-077f8c1df9dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

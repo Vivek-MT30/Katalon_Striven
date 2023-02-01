@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Task125</name>
+   <tag></tag>
+   <elementGuidId>f22018dc-4dbb-4321-ba80-0322a57d4a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tasks-container']/div[2]/div[3]/div/div[4]/div[3]/div[2]/task-list-widget/div/div/div[2]/div/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2802a869-ee39-453a-83f1-4dbd1dd2212b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: taskName</value>
+      <webElementGuid>96a7165c-20cb-439d-ae65-6632fd6ee7e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Task125</value>
+      <webElementGuid>a84b03a4-d001-428b-876c-ff83ef9939f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tasks-container&quot;)/div[@class=&quot;tasks-layout&quot;]/div[@class=&quot;center-panel hidden-xs hidden-sm&quot;]/div[1]/div[@class=&quot;panel panel-default inline-edit&quot;]/div[3]/div[2]/task-list-widget[1]/div[@class=&quot;task-list record-list&quot;]/div[@class=&quot;task-item record-item miles-list-item hover&quot;]/div[2]/div[@class=&quot;clearfix&quot;]/span[2]/span[1]</value>
+      <webElementGuid>326370fc-8774-4513-8da4-07ae46c00878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tasks-container']/div[2]/div[3]/div/div[4]/div[3]/div[2]/task-list-widget/div/div/div[2]/div/span[2]/span</value>
+      <webElementGuid>a284f988-d29a-4320-ac55-eda578d86b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency'])[1]/following::span[3]</value>
+      <webElementGuid>a499c55e-416c-4609-8a29-2d8fb2355ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High Priority'])[1]/following::span[4]</value>
+      <webElementGuid>3a1fd115-1da3-443d-be86-9be9a4c15b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type:'])[2]/preceding::span[2]</value>
+      <webElementGuid>7bec5e4f-3400-473d-ba5e-31fb1da230ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Support'])[3]/preceding::span[3]</value>
+      <webElementGuid>306a8558-5f82-430b-9643-b864af0ac407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[2]/span</value>
+      <webElementGuid>c75ac884-a63b-49df-a43a-5bba3ab720d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Task125' or . = 'Task125')]</value>
+      <webElementGuid>0ff23afd-3f13-4223-9f5d-4eddb4d644a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
