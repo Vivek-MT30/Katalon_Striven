@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_India ()</name>
+   <tag></tag>
+   <elementGuidId>c805ddbb-ad7e-4653-9509-4189628e4ec8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='iti-1__item-in']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#iti-1__item-in > span.iti__country-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d20a2735-4415-4a92-bd25-2fc914ba1b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iti__country-name</value>
+      <webElementGuid>18dc1bcd-6013-47e5-93df-23e59fc94b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>India (भारत)</value>
+      <webElementGuid>db756231-eb96-48d9-bb6a-4db591897bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iti-1__item-in&quot;)/span[@class=&quot;iti__country-name&quot;]</value>
+      <webElementGuid>6c36bb9c-947b-4397-b22b-86c1fc628234</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='iti-1__item-in']/span</value>
+      <webElementGuid>a2bf601f-0fa1-4ef5-8c25-6920ece0fbf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iceland (Ísland)'])[1]/following::span[2]</value>
+      <webElementGuid>e1c4db17-8d00-45fd-bebe-2a122dfb331a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hungary (Magyarország)'])[1]/following::span[4]</value>
+      <webElementGuid>d334c310-3c21-45c5-a541-3a0a7c324e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::span[2]</value>
+      <webElementGuid>dee74e38-ebc6-4fe8-aab5-3c02027389eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iran (‫ایران‬‎)'])[1]/preceding::span[4]</value>
+      <webElementGuid>353fd563-fc67-4aba-9f54-bced4d96e75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='India (भारत)']/parent::*</value>
+      <webElementGuid>52b8206d-f66b-46e7-a340-e6aaeacf9cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[102]/span</value>
+      <webElementGuid>53517450-dd58-4fe2-a7ee-25e24c010d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'India (भारत)' or . = 'India (भारत)')]</value>
+      <webElementGuid>84b1ae85-6a51-40df-880d-67ea2bc33e85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

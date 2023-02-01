@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Striven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>835e16e8-7cb9-4fc8-9911-f556ac46fc71</testSuiteGuid>
+   <testCaseLink>
+      <guid>34d34ee6-f414-4881-8614-1fd7147bc0b2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Striven Signup Data Driven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0bd0efef-4490-4f0d-aceb-be00b8753c08</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Striven/Striven_Signup</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0bd0efef-4490-4f0d-aceb-be00b8753c08</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>d8f0a8ff-ee25-42c7-804d-4781cac3a59a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0bd0efef-4490-4f0d-aceb-be00b8753c08</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>274edea4-bccd-462e-b0f0-25a92f6f00f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0bd0efef-4490-4f0d-aceb-be00b8753c08</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EmailId</value>
+         <variableId>0db0c534-e77b-4f0d-95ab-a1c2ca33aa44</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0bd0efef-4490-4f0d-aceb-be00b8753c08</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MobileNumber</value>
+         <variableId>97070ddd-e60c-4601-aff6-9004b8bcedc3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
